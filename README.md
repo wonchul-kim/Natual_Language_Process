@@ -15,3 +15,31 @@
 * 텐서플로우2와 머신러닝으로 시작하는 자연어처리
 * 김기현의 자연어 처리 딥러닝 캠프
 * 한국어 임베딩
+
+----------------------------------------------------------------------------
+
+
+https://www.youtube.com/watch?v=zFnrq5SmBdg&list=PLVNY1HnUlO26qqZznHVWAqjS1fWw0zqnT&index=8&ab_channel=MinsukHeo%ED%97%88%EB%AF%BC%EC%84%9D
+
+
+* stop words: is, a, the, ... > 문장 내에서 해석하는 데에 도움이 되지 않는 words
+
+* Bag of words
+* n-gram
+* TF-IDF
+
+* Latent Semantic Analysis (LSA)
+* Word Embeddings: Word2Vec, Glove
+
+> Word2Vec: 단어를 vector로 표현하되 해당 word의 neighborhood word를 통해서 해당 word의 유사도를 고려한다. 
+
+
+* ConceptNet
+
+
+* Word mover's distance (WMD): 문서 유사도 (word2vec을 근간으로 함)
+* RWMD
+
+
+
+
