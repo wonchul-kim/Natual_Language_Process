@@ -17,7 +17,9 @@
 
 * `context vector`는 하나의 고정된 크기(fixed size)를 가진 vector이기 때문에 모든 정보를 함축할 수는 없다는 제약을 가지게 된다. 따라서, 입력 단어/문장의 길이가 길어지면 잘 되지 않을 수 있다.
 
-따라서, 본 논문에서는 아래과 같이 입력문장의 모든 정보를 활용하는 **attention mechanism**을 제안하여 이와 같은 문제를 해결하고자 하였다.
+* RNN의 고질적인 문제인 vanishing gradient가 발생한다.
+
+따라서, 본 논문에서는 이와 같은 문제를 해결하기 위해서 입력문장의 모든 정보를 활용하는 **attention mechanism**을 아래와 같이 제안하였다.
 
 <center><img src='./imgs/attention.png' width=500></center>
 
