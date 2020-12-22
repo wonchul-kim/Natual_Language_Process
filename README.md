@@ -10,6 +10,7 @@
 
 * https://notebooks.quantumstat.com/
 
+* [text summarization](https://github.com/uoneway/Text-Summarization-Repo?fbclid=IwAR1v7DtoIQ5Of7Vbi2RaQlHuJXG3G0LtJlY_QpPSVcwvQGSxdaGhaoDdpu0)
 ### Books
 
 * 텐서플로우2와 머신러닝으로 시작하는 자연어처리
